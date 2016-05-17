@@ -1,0 +1,68 @@
+{
+  "msgs":{
+    "nl":{
+      "momentx.day.1.dd": "Ma",
+      "momentx.day.2.dd": "Di",
+      "momentx.day.3.dd": "Wo",
+      "momentx.day.4.dd": "Do",
+      "momentx.day.5.dd": "Vr",
+      "momentx.day.6.dd": "Za",
+      "momentx.day.7.dd": "Zo",
+      "momentx.day.1.dddd": "Maandag",
+      "momentx.day.2.dddd": "Dinsdag",
+      "momentx.day.3.dddd": "Woensdag",
+      "momentx.day.4.dddd": "Donderdag",
+      "momentx.day.5.dddd": "Vrijdag",
+      "momentx.day.6.dddd": "Zaterdag",
+      "momentx.day.7.dddd": "Zondag"
+    },
+    "en":{
+      "momentx.day.1.dd": "Mo",
+      "momentx.day.2.dd": "Tu",
+      "momentx.day.3.dd": "We",
+      "momentx.day.4.dd": "Th",
+      "momentx.day.5.dd": "Fr",
+      "momentx.day.6.dd": "Sa",
+      "momentx.day.7.dd": "Su",
+      "momentx.day.1.dddd": "Monday",
+      "momentx.day.2.dddd": "Tuesday",
+      "momentx.day.3.dddd": "Wednesday",
+      "momentx.day.4.dddd": "Thursday",
+      "momentx.day.5.dddd": "Friday",
+      "momentx.day.6.dddd": "Saturday",
+      "momentx.day.7.dddd": "Sunday"
+    },
+    "fr":{
+      "momentx.day.1.dd": "Lu",
+      "momentx.day.2.dd": "Me",
+      "momentx.day.3.dd": "Me",
+      "momentx.day.4.dd": "Je",
+      "momentx.day.5.dd": "Ve",
+      "momentx.day.6.dd": "Sa",
+      "momentx.day.7.dd": "Di",
+      "momentx.day.1.dddd": "Lundi",
+      "momentx.day.2.dddd": "Mardi",
+      "momentx.day.3.dddd": "Mercredi",
+      "momentx.day.4.dddd": "Jeudi",
+      "momentx.day.5.dddd": "Vendredi",
+      "momentx.day.6.dddd": "Samedi",
+      "momentx.day.7.dddd": "Dimanche"
+    },
+    "de":{
+      "momentx.day.1.dd": "Mo",
+      "momentx.day.2.dd": "Di",
+      "momentx.day.3.dd": "Mi",
+      "momentx.day.4.dd": "Do",
+      "momentx.day.5.dd": "Fr",
+      "momentx.day.6.dd": "Sa",
+      "momentx.day.7.dd": "So",
+      "momentx.day.1.dddd": "Montag",
+      "momentx.day.2.dddd": "Dienstag",
+      "momentx.day.3.dddd": "Mittwoch",
+      "momentx.day.4.dddd": "Donnerstag",
+      "momentx.day.5.dddd": "Freitag",
+      "momentx.day.6.dddd": "Samstag",
+      "momentx.day.7.dddd": "Sonntag"
+    }
+  }
+}
