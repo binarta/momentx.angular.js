@@ -1,5 +1,5 @@
 angular.module('momentx', ['angularMoment'])
-    .directive('binTimeFormatter', ['moment', function (moment) {
+    .directive('ngModel', ['moment', function (moment) {
         return {
             require: '?ngModel',
             link: function (scope, el, attrs, ngModel) {
