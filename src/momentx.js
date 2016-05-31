@@ -1,4 +1,4 @@
-angular.module('momentx', ['angularMoment'])
+angular.module('momentx', ['angularMoment', 'moment-picker'])
     .directive('ngModel', ['moment', function (moment) {
         return {
             require: '?ngModel',
