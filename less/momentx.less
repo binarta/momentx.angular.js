@@ -1,0 +1,25 @@
+.bin-moment-picker {
+  .moment-picker {
+    display: block;
+
+    .moment-picker-container {
+      position: relative;
+      max-width: 320px;
+      color: @bin-text-color;
+      box-shadow: @bin-box-shadow;
+    }
+
+    td.selected,
+    td.selected:hover {
+      border-color: @bin-blue-dark;
+      background: @bin-blue;
+      background-image: none;
+    }
+
+    th:hover,
+    td:hover {
+      background: @bin-gray-light;
+      background-image: none;
+    }
+  }
+}
