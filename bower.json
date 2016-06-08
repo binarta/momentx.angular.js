@@ -2,6 +2,7 @@
   "name": "binarta.momentx.angular",
   "main": [
     "./src/momentx.js",
+    "./less/momentx.less",
     "./metadata-system.json",
     "./sources.json"
   ],
