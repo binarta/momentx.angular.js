@@ -8,8 +8,8 @@
   ],
   "dependencies": {
     "binarta.angularx": "0.*.*",
-    "angular-moment":"0.10.3",
-    "moment-picker": "0.4.*",
+    "angular-moment":"1.2.0",
+    "moment-picker": "0.10.2",
     "binarta.style.guide": "0.*.*"
   },
   "devDependencies": {
